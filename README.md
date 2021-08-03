@@ -14,4 +14,4 @@ Here is a possible list of reasons why :-
 - the channel needs to be mentioned like #logs , don't type the channel ID
 - the database is opened hence it's considered as locked when it's open , hence can't make changes in the file
 
-If the reason specified is not above , feel free to contact me in my server!
+If the reason is not from any of the above , feel free to contact me in my server!
